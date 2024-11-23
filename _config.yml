@@ -19,7 +19,7 @@ title: Wang-fuduo # the main title
 tagline: 仙人之下我无敌 仙人之上一换一 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  记录学习、生活、美好的一切。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/wang-fuduo.jpg"
+avatar: "assets/wang-fuduo.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
