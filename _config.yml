@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Wang-fuduo的主页 # the main title
+title: Wang-fuduo # the main title
 
 tagline: 仙人之下我无敌 仙人之上一换一 # it will display as the subtitle
 
