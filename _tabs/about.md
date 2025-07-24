@@ -12,7 +12,7 @@ order: 4
 | -------- | ---------------------------------------------------------------|
 | 代号     | 晚风急                                                          |
 | 方位     | 成都                                                            |
-| 信箱     | 2469992044@qq.com                                              |
+| 信箱     | 2077darkstone@gmail.com                                         |
 | Github   | [https://github.com/wang-fuduo](https://github.com/wang-fuduo) |
 | 小屋     | [https://wang-fuduo.github.io/](https://wang-fuduo.github.io/) |
 
